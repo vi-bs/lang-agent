@@ -1,0 +1,48 @@
+About Me – Vibha N R
+
+Hello! I’m Vibha N R, a junior-year undergraduate student pursuing a degree in Artificial Intelligence and Machine Learning at New Horizon College of Engineering, Bangalore. I’m deeply passionate about the convergence of AI, blockchain, and emerging technologies like augmented reality — aiming to build intelligent, accessible, and real-world impactful systems.
+
+⸻
+
+🎯 Career Objective
+
+To grow into a transformative AI/ML engineer and innovator by contributing to futuristic solutions in decentralized technology and intelligent agents. I aspire to build products that educate, empower, and simplify technology for everyday users.
+
+⸻
+
+🔍 Core Skills & Focus Areas
+	•	Artificial Intelligence & Machine Learning
+Strong foundation in core ML concepts, model training, and deployment pipelines. Exploring practical applications in NLP, computer vision, and agent-based systems.
+	•	Large Language Models & AI Agents
+Currently mastering LangChain and LangGraph to build scalable, reactive, and educational AI agents. Focused on designing distraction-resistant interactive systems to teach users how to deploy AI tools.
+	•	Blockchain & Solidity
+Learning to build decentralized apps using Solidity on Ethereum. My goal is to combine security, usability, and clarity in blockchain interactions with AI-powered interfaces.
+	•	IoT & Embedded Systems
+Working on a smart bag prototype using ESP32-CAM for object detection, with future plans to patent and pitch it as a product.
+	•	Languages & Tools
+Fluent in Python, with working knowledge of HTML, JS, C, and Bash. Actively using tools like VS Code, GitHub, Colab, LangChain, and OpenAI APIs.
+
+⸻
+
+🚀 Current Projects
+	•	Smart Bag Prototype – An IoT-powered bag that uses object detection to alert users if essentials are missing, powered by an embedded ESP32 module and connected app.
+	•	Interactive Educational AI Agent – Using LangChain and LangGraph to create a focus-enhancing, AR-integrated agent that teaches users how to deploy and fine-tune their own AI models.
+	•	Decentralized Transaction Assistant – Developing a user-friendly, AR-powered DApp for secure peer-to-peer transactions with Solidity and AI interaction layers.
+
+⸻
+
+🧠 Ongoing Learning Goals
+	•	Build strong DSA foundations to crack FAANG interviews — using EPI in Python and Cracking the Coding Interview.
+	•	Achieve fluency in Japanese and clear the JLPT N4 exam by July 2025.
+	•	Master full-stack AI agent design using LangChain and LangGraph.
+	•	Translate and digitize historical manuscripts using OCR models.
+	•	Prepare for top internship and placement opportunities starting in July 2025.
+
+⸻
+
+
+📌 Quick Facts
+	•	🔧 Building: AI agents, IoT prototypes, DApps
+	•	💡 Learning: LangChain, Solidity, DSA, Japanese
+	•	🌱 Passionate about: Education, AR, accessibility, and automation
+	•	🧠 Goal: Build systems that teach, protect, and scale
