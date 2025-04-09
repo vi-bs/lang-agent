@@ -1,0 +1,16 @@
+lang-agent/
+│
+├── 1_chat_models/                # Examples and scripts related to chat models
+│
+├── 2_prompt_templates/           # Various prompt templates for different tasks
+│
+├── 3_chains/                     # Implementation of chains combining LLMs and tools
+│
+├── 4_Rags/                       # Retrieval-Augmented Generation (RAG) implementations
+│   └── documents/                # Sample documents for RAG demonstrations
+│
+├── 5_agents/                     # Agent-based implementations and examples
+│
+├── .DS_Store                     # macOS system file (can be ignored or deleted)
+│
+└── README.md                     # Project overview and instructions
